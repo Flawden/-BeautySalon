@@ -188,12 +188,11 @@ h1, h2, h3, h4, h5, h6 {
 .blocks__promotionsBlock {
   height: 635px;
   width: 100%;
-  background: url(../img/grad.png) no-repeat;
-  background-size: 100%;
+  background: #f0f0f0;
 }
 .blocks__promotionsBlock h2 {
   font-weight: 700;
-  color: #fff;
+  color: #000;
   text-align: center;
   font-size: 40px;
   padding-top: 3%;
